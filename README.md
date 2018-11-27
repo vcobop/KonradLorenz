@@ -29,7 +29,3 @@ Este es el [enlace](https://github.com/JoseMontanaC/Curso-Konrad-Lorentz) del re
 <font color="red">This is some text!</font>
 These are <b style='color:red'>red words</b>.
 
-
-nov 27 
-curso Konrad Lorenz
-
