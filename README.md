@@ -22,6 +22,8 @@ Cosas para hacer
 
 Este es el [enlace](https://github.com/JoseMontanaC/Curso-Konrad-Lorentz) del repositorio del paco.
 
+<span style="color: green"> Some green text </span>
+
 nov 27 
 curso Konrad Lorenz
 
