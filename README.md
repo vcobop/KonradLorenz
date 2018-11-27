@@ -22,7 +22,15 @@ Cosas para hacer
 
 Este es el [enlace](https://github.com/JoseMontanaC/Curso-Konrad-Lorentz) del repositorio del paco.
 
-<span style="color: green"> Some green text </span>
+* Como hacer color
+
+<span style="color:orange;">Word up</span>
+
+
+    <p style='color:red'>This is some red text.</p>
+    <font color="red">This is some text!</font>
+    These are <b style='color:red'>red words</b>.
+
 
 nov 27 
 curso Konrad Lorenz
