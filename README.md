@@ -20,6 +20,8 @@ Cosas para hacer
 
 - [ ] Subir el contenido de la clase 2
 
+Este es el [enlace](https://github.com/JoseMontanaC/Curso-Konrad-Lorentz) del repositorio del paco.
+
 nov 27 
 curso Konrad Lorenz
 
