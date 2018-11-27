@@ -72,6 +72,11 @@ Por ultimo si se quiere revisar el estado del repositorio:
 	git status
 ```
 
+Para arrastrar un repositorio 
+```bash
+	git clone <link>
+```
+
 Cosas para hacer
 ================
 - [x] crear el repositorio con el respectivo README.
