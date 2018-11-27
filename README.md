@@ -12,6 +12,13 @@ Además para traer cosas del repositorio primero se ejecuta el comando
 ```bash
 	git pull
 ```
+Cosas para hacer
+================
+- [x] crear el repositorio con el respectivo README.
+
+- [x] Subir el contenido de la clase 1
+
+- [ ] Subir el contenido de la clase 2
 
 nov 27 
 curso Konrad Lorenz
