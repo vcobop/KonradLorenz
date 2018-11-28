@@ -1,0 +1,10 @@
+nov 27
+
+en R, para analisis geoestadistico.
+install.packages("geoR")
+library(geoR)
+
+cuando el muestreo es regular la varianza de kriging es la mas pequeña.
+clusterizacion de datos espaciales, k-ripley, funcion.
+
+
