@@ -1,0 +1,32 @@
+Clase 3 
+nov 28
+correlacion entre dos procesos
+RandomFields paquete de R
+
+prueba de hipotesis
+
+modificación del test t
+los grados de libertad se estiman teniendo en cuenta las varianzas y covarianzas, tambien cambia es estadistico de prueba. 
+la implementación en R SpatialPack ...
+modified.ttest
+modified.Ftest para la correlación de una imagen con un grupo de imagenes. 
+
+##########################################################################
+
+m<-50
+N<-0
+lambda<-1 #lambda es la pendiente
+t<-rep(0,m)
+p<-rep(0,m)
+for(i in 1:m)
+    {
+    U=runif(1)
+    X<--1/lambda*log(U)
+    N<-N+1 #incrementa en 1 el numero de eventos
+    #las variables se guardan, asignadas a un tiempo especifico
+    t[i]<-X
+    p[i]<-N
+}
+
+ options(repr.plot.width=5, repr.plot.height=4)
+plot(cumsum(t),p)
