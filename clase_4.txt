@@ -1,0 +1,11 @@
+nov 29
+clase 4
+Tamaño muestral efectivo
+la muestra efectiva de una muestra Cressie en 1993 lo dio como el numero de observaciones independientes dentro de la muestra espacial n (ESS).
+Cuando ro vale 0 el ESS será n, entre mayor sea la correlación menor será el número de ESS.
+
+en muestras espaciales la correlación esta dada por la distancia geográfica entre los puntos, por esto no hay una correlación negativa, esta es entre 0 y 1.
+En las series de tiempo los puntos no estarán relacionados con los puntos del tiempo anterior
+de la otra muestra.
+si son inversas las distribuciones de las dos muestras, la relación entre los puntos es -1
+
